@@ -1,0 +1,14 @@
+{
+  "name": "frm_gulp1.1",
+  "description": "",
+  "main": "gulpfile.js",
+  "license": "ISC",
+  "homepage": "https://github.com/kikeestrada/myfrm_bootstrap",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
